@@ -14,7 +14,7 @@ diligently follow [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.co
 - Clone this repo
 - Create a new branch with your name as branch name
 - Create a new folder with your name as folder name
-  - Create a readme.md file in your folder [Example] (https://github.com/alloyking1/Laravel-Roadmap-Learning-Path-challenge/tree/master/Example_folder)
+  - Create a readme.md file in your folder [Example](https://github.com/alloyking1/Laravel-Roadmap-Learning-Path-challenge/tree/master/Example_folder)
     - Write a brief introduction of your self in the first section of your readme.md file
     - Create a checklist of topics you have covered following the learning path
     - Add links to github repositories of final projects built
