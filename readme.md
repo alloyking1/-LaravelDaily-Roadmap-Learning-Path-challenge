@@ -9,7 +9,7 @@ diligently follow [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.co
 - Dedicate 2 - 4 hours daily to your learning
 - Work without supervision
 
-## How to get get involved
+## How to get involved
 
 - Clone this repo
 - Create a new branch with your name as branch name
