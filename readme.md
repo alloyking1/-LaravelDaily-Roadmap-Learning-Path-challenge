@@ -3,7 +3,7 @@
 **Laravel road map learning path challenge** is an open source initiative to aid laravel developers become seniors by committing to
 diligently follow [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
 
-## To take part you need to:
+## Requirements:
 
 - Have a burning desire to learn
 - Dedicate 2 - 4 hours daily to your learning
