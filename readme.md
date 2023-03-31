@@ -13,7 +13,7 @@ follow [LaravelDaily/Laravel-Roadmap-Learning-Path](https://github.com/LaravelDa
 
 - Clone repo
 - Create a new branch with your name as branch name
-  Create a new folder with your name as folder name
+- Create a new folder with your name as folder name
   - Create a readme.md file in your folder
   - Write a brief introduction of your self in the first section of readme.md file
   - Create a checklist of topics you have covered
