@@ -1,6 +1,6 @@
 # Your Name
 
-My name is Inioluwa Alake, currently a final year student studying Software Engineering and a freelancer. Stacks i work with are PHP, Laravel, Blade template, JavaScript and Golang. I possess strong expertise in designing and building APIs, and I am confident in my ability to create efficient and scalable solutions for complex data architectures with Laravel"
+My name is Inioluwa Alake. I have a Bsc. degree in Software Engineering, i work as a freelancer. Stacks i work with are PHP, Laravel, Blade template, JavaScript and Golang. I possess strong expertise in designing and building APIs, and I am confident in my ability to create efficient and scalable solutions for complex data architectures with Laravel"
 
 # Road map Checklist
 
