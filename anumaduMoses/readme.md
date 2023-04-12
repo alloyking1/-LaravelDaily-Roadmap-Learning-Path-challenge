@@ -8,24 +8,16 @@ I write clean and maintainable code and create technical contents for technical 
 
 ### Beginner Level Topics
 
-- [x] Routing and Controllers: Basics
-- [ ] Doing ..
-- [ ] Not done
+- [x] Routing and Controllers basics challenge completed. See repo [here](https://github.com/alloyking1/Test-Laravel-Routes)
 
 ### Advanced Beginner Level Topics
 
-- [x] Done : tada:
-- [ ] Doing ..
-- [ ] Not done
+- [ ] Not started
 
 ### Mid Level Topics
 
-- [x] Done : tada:
-- [ ] Doing ..
-- [ ] Not done
+- [ ] Not started
 
 ### Senior Level Topics
 
-- [x] Done : tada:
-- [ ] Doing ..
-- [ ] Not done
+- [ ] Not started
