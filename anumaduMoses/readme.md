@@ -9,6 +9,7 @@ I write clean and maintainable code and create technical contents for technical 
 ### Beginner Level Topics
 
 - [x] Routing and Controllers basics challenge completed. See repo [here](https://github.com/alloyking1/Test-Laravel-Routes)
+- [x] Blade basics challenge completed. See repo [here](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics/pull/386)
 
 ### Advanced Beginner Level Topics
 
